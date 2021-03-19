@@ -1,0 +1,11 @@
+{
+    "/js/api.min.js": "/js/api.min.js?id=b1f57d6ec5a9c31dd1fd",
+    "/css/app.min.css": "/css/app.min.css?id=03c7521cf1f3e1d97bf0",
+    "/css/modules/login.min.css": "/css/modules/login.min.css?id=50aadb27cec050f1589d",
+    "/css/admin/app.min.css": "/css/admin/app.min.css?id=03fa50bd222114af830d",
+    "/css/admin/tinymce.min.css": "/css/admin/tinymce.min.css?id=d85c16ec39533e17bfb1",
+    "/css/vendor.min.css": "/css/vendor.min.css?id=7c4f11be1c6d20f81acf",
+    "/css/admin/vendor.min.css": "/css/admin/vendor.min.css?id=13eee2208933c807a7c9",
+    "/js/admin/app.min.js": "/js/admin/app.min.js?id=85d69fa4c9c7b35cc21a",
+    "/js/admin/vendor.min.js": "/js/admin/vendor.min.js?id=57afe891221632d20a96"
+}
